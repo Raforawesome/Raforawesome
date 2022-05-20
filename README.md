@@ -1,11 +1,11 @@
-### Hi there 👋
-I'm a 16 year old computer science enthusiast and hopeful to be a CS student at the University of Waterloo.
-
-#### Topics I'm interested in
-- Algorithms
-- Mathematics
-- The Rust Programming Language (obviously)
-- Physics
+### About Me
+Rust shill
+Vim supremacist
+CLI elitist
+C# hater
 
 #### Ways to reach me
 - Discord: Raforawesome#6666
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raforawesome&count_private=true&show_icons=true&theme=onedark)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raforawesome&layout=compact)
