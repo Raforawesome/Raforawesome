@@ -1,7 +1,7 @@
 # About Me
 Rust shill
 
-Vim supremacist
+Vim user
 
 CLI elitist
 
