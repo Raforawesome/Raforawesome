@@ -22,5 +22,6 @@ Areas I'm passionate about:
 
 </div>
 
-**Core Stack:** Rust, C, TypeScript/HTML/CSS
+**Core Stack:** Rust, TypeScript/HTML/CSS, C
+
 **Other Languages I Know**: Java, C++, Python, Lua
